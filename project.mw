@@ -1,18 +1,21 @@
 timezone: Asia/Tokyo, 
-ah kimochi!
 
 group Tokyo
 2025-02-25 12:40: jacob & Ayden land in Tokyo
-2025-02-25 15:00: meet in ueno; rotate to shinjuku
 2025-02-25 / 2025-03-03: Tokyo
-- [] sort out what we want to do here
-endgroup Tokyo
+2025-02-25 15:00: meet in ueno; rotate to shinjuku
+2025-02-25 15:00: check in
+2025-03-03 12:00: check out — Tokyo SA Ryokan
+endgroup
 
-group Kansai
+group Kyoto
 2025-03-03 12:00: Shinkansen Tokyo -> Kyoto
 2025-03-03 / 2025-03-04: Kyoto
+2025-03-03 14:00: check in — 65-2 Masuya-cho, Shimogyo-ku, Kyoto 600-8195
+2025-03-04 10:00: check out
+endgroup
+
+group Osaka
 2025-03-04 / 2025-03-10: Osaka
-- [] book lodging
-- [] figure out which days we want to hit kyoto, nara
 2025-03-10 16:00: jacob leaves from NRT
-endgroup Kansai
+endgroup
